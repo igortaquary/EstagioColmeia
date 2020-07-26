@@ -50,7 +50,7 @@ Os testes são realizados para certificar que a API está respondendo corretamen
  # Criação do CSV
    
    No arquivo .csv é utilizado ";" (ponto e virgula) para separar as colunas, 
-   o arquivo é criado por meio de uma função createCsv, a qual recebe como parametros o titulo do arquivo,
+   o arquivo é criado por meio de uma função csvCreator, a qual recebe como parametros o titulo do arquivo,
    e depois arrays de dados para cada linha nova do csv.
    
  
